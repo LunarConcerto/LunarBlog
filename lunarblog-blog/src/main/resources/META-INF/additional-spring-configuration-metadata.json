@@ -1,0 +1,28 @@
+{
+  "properties": [
+    {
+      "name": "cos.secretId",
+      "type": "java.lang.String",
+      "description": "Description for cos.secretId."
+    },
+    {
+      "name": "cos.secretKey",
+      "type": "java.lang.String",
+      "description": "Description for cos.secretKey."
+    },
+    {
+      "name": "cos.bucketName",
+      "type": "java.lang.String",
+      "description": "Description for cos.bucketName."
+    },
+    {
+      "name": "cos.hostname",
+      "type": "java.lang.String",
+      "description": "Description for cos.hostname."
+    },
+    {
+      "name": "cos.regionName",
+      "type": "java.lang.String",
+      "description": "Description for cos.regionName."
+    }
+  ] }

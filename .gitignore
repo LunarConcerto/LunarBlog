@@ -1,0 +1,4 @@
+# 项目排除路径
+/common-framework/target/
+/lunarblog-admin/target/
+/lunarblog-blog/target/
